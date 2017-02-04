@@ -1,0 +1,27 @@
+{
+  "name": "express-node-mongo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svegin/express-node-mongo.git"
+  },
+  "author": "ES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svegin/express-node-mongo/issues"
+  },
+  "homepage": "https://github.com/Svegin/express-node-mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
